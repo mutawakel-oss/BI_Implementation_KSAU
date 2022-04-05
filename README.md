@@ -66,4 +66,14 @@ Provides analyses about scholars GPAs, failure count and ratios.
 
 # Follwoing screenshots for some sample analtical graphs of the system:
 
-
+![Chart 1](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture1.png)
+![Chart 2](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture4.png)
+![Chart 3](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture5.png)
+![Chart 4](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture6.png)
+![Chart 5](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture7.png)
+![Chart 6](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture8.png)
+![Chart 7](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture9.png)
+![Chart 8](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture10.png)
+![Chart 9](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture11.png)
+![Chart 10](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture12.png)
+![Chart 11](https://github.com/mutawakel-oss/BI_Implementation_KSAU/blob/main/Picture13.png)
