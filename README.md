@@ -64,5 +64,6 @@ Provides analyses about instructors their workload, role and their trends. Relat
 7)  Custom
 Provides analyses about scholars GPAs, failure count and ratios.
 
-Follwoing screenshots for some sample analtical graphs of the system:
+# Follwoing screenshots for some sample analtical graphs of the system:
+
 
