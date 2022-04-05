@@ -1,13 +1,17 @@
 # 1- Oracle BI Implementation KSAU:
+
 1.1 Student Information Analytics Overview:
+
 This application allows Universities users to view statistical information for the following areas:
 •	GPA 
 •	Failure Count
 •	Student Records
 
-Available Pages & Reports
+Available Pages & Reports:
+
 The Executive overview dashboard summarizes the institutional performance for all the key areas including GPA, Failure Count and Withdrawal Details:
-1)	Enrollment
+
+1)	Enrollment:
 Provides Analysis about student class enrollment, term enrollment, Class capacities and enrollment request.Related reports are:
 
 •	Student Enrollment By Top 10 Classes.
