@@ -1,6 +1,8 @@
 # Oracle BI Implementation KSAU:
 
-This application allows Universities users to view statistical information for the following areas:
+In this project, I have worked in two roles (Technofunctional Consultant + IT Project Manager) to implement Oracle BI application for King Saud bin Abdulaziz University for Health Sciences (KSAU).
+
+This application allows the University users to view statistical information for the following areas:
 •	GPA 
 •	Failure Count
 •	Student Records
